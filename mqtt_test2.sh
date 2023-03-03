@@ -1,5 +1,5 @@
 #!/bin/bash
-go install github.com/krylovsk/mqtt-benchmark@main
+/usr/local/go/bin/go install github.com/krylovsk/mqtt-benchmark@main
 mkdir testdir
 cd ~
 cd go/bin
