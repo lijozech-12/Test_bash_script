@@ -7,5 +7,6 @@ source /root/.bashrc
 echo "succeful"
 wget https://raw.githubusercontent.com/lijozech-12/Test_bash_script/main/mqtt_test2.sh
 chmod +x mqtt_test2.sh
-./mqtt_test2
+./mqtt_test2.sh
+
 
